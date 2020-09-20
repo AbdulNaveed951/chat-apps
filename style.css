@@ -1,0 +1,28 @@
+body{
+    background-image: url(a1.jpg);
+    background-size: cover;
+    
+}
+.chatbox
+{
+    margin-top: 10px;
+   height: 350px;
+   border: solid;
+  border-radius: 2%;
+  border-style: dashed;
+}
+.chat-form
+{
+    
+  border-radius: 2%;
+  padding: 10px;
+
+  text-align: center;
+  display: inline-block;
+
+}
+#h3{
+    margin-top: 20px;
+    color: aliceblue;
+    text-align: center;
+}
